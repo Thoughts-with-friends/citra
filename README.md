@@ -14,10 +14,16 @@ Get-ChildItem -Recurse -Filter *.sh | ForEach-Object {git update-index --add --c
 git submodule update --init --recursive
 ```
 
-- Tasks
+## Tasks
 
-[ ] CI build tests
+- [x] CI build tests
 
-[ ]
+- [ ] Reading Source Code
 
-[ ] Replace GUI (if possible)
+  - [ ] core
+  - [ ] common
+  - [ ] citra
+  - [ ] citra-qt
+  - [ ] ...
+
+- [ ] Replace Qt GUI with Web-View
