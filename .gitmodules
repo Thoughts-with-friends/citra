@@ -186,3 +186,5 @@
 [submodule "oaknut"]
 	path = externals/oaknut
 	url = https://github.com/merryhime/oaknut.git
+[submodule "externals/dynarmic"]
+	url = https://github.com/azahar-emu/dynarmic.git
