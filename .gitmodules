@@ -10,9 +10,6 @@
 [submodule "catch2"]
     path = externals/catch2
     url = https://github.com/catchorg/Catch2
-[submodule "dynarmic"]
-    path = externals/dynarmic
-    url = https://github.com/azahar-emu/dynarmic.git
 [submodule "xbyak"]
     path = externals/xbyak
     url = https://github.com/herumi/xbyak.git
@@ -105,9 +102,6 @@
 [submodule "catch2"]
     path = externals/catch2
     url = https://github.com/catchorg/Catch2
-[submodule "dynarmic"]
-    path = externals/dynarmic
-    url = https://github.com/PabloMK7/dynarmic.git
 [submodule "xbyak"]
     path = externals/xbyak
     url = https://github.com/herumi/xbyak.git
@@ -188,3 +182,4 @@
 	url = https://github.com/merryhime/oaknut.git
 [submodule "externals/dynarmic"]
 	url = https://github.com/azahar-emu/dynarmic.git
+	path = externals/dynarmic
