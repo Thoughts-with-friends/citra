@@ -18,6 +18,7 @@ src/common/scm_rev.cpp
 cmake-build-debug/
 cmake-build-release/
 CMakeLists.txt.user*
+tree/
 
 # *nix related
 # Common convention for backup or temporary files
